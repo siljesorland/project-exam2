@@ -36,3 +36,8 @@ $ npm install
 # Run the app
 $ npm start
 
+# Important!
+To register as a new user you must be registered as a stud.noroff.no email.
+
+
+
