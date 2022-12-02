@@ -39,5 +39,15 @@ $ npm start
 # Important!
 To register as a new user you must be registered as a stud.noroff.no email.
 
+# Demo
+Here is a working live demo : https://jovial-tanuki-030e51.netlify.app/
 
+# Built with
+Bootstrap - Extensive list of components and Bundled Javascript plugins.
+
+Netlify - The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web.
+
+# Style Guide
+
+[This is an external link to a style guide for the project](https://xd.adobe.com/view/83889c6d-3991-4938-a473-9ba93ebcccf9-d6db/)
 
