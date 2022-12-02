@@ -21,7 +21,7 @@ A registered user may follow and unfollow another Profile
 Built with:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Hor to use:
+# How to use:
 To clone and run this application, you'll need VS Code and Node.js (which comes with npm) installed on your computer. From your command line:
 
 # Clone this repository
