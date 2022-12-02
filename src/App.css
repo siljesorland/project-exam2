@@ -1,0 +1,160 @@
+* {
+	box-sizing: border-box;
+	background-image: url(./components/images/Blazon.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+nav {
+	padding: 15px;
+}
+
+nav a {
+	color: darkred;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+form {
+	border-radius: 0.5rem;
+	margin: 1rem auto;
+	border-style: solid;
+	padding: 4rem;
+	max-width: 500px;
+}
+
+input,
+textarea {
+	font-size: 1rem;
+	margin-top: 10px;
+	width: 100%;
+	padding: 5px;
+
+}
+
+textarea {
+	height: 200px;
+}
+
+button {
+	font-size: 1rem;
+	margin-top: 10px;
+	border-radius: 0.3rem;
+	transition-duration: 0.4s;
+}
+
+button:hover {
+	color: white;
+}
+
+.container {
+	max-width: 1100px;
+	margin: 1rem auto;
+}
+
+
+.center {
+	text-align: center;
+}
+
+.form-error {
+	background: #fbb;
+	color: darkred;
+	padding: 0.5rem 1rem;
+}
+
+ul.posts {
+	list-style: none;
+	padding: 0;
+}
+
+
+ul.posts li {
+	border-style: solid;
+	border-radius: 0.5rem;
+	margin-bottom: 5px;
+	padding: 10px;
+}
+
+ul.posts a {
+	color: darkred;
+	font-weight: bold;
+}
+
+.responsive {
+	width: 100%;
+	height: auto;
+}
+
+
+ul.users {
+	padding: 0;
+	list-style: none;
+}
+
+ul.users li {
+	margin-bottom: 5px;
+	padding: 10px;
+	overflow-wrap: break-word;
+	border-style: solid;
+	border-radius: 0.5rem;
+}
+
+
+ul.users a {
+	color: darkred;
+	font-weight: bold;
+}
+
+.userDetail {
+	border-radius: 0.5rem;
+	margin: 1rem auto;
+	border-style: solid;
+	padding: 4rem;
+	max-width: 500px;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1rem;
+}
+
+h3 {
+	font-family: 'Fredoka One', cursive;
+	font-size: 6rem;
+}
+
+h4 {
+	font-size: 1rem;
+}
+
+p {
+	font-size: 0.9rem;
+}
+
+/* Increase font sizes by 1.5x on bigger screens */
+@media (min-width: 48rem) {
+	h1 {
+		font-size: 2rem;
+	}
+
+	h2 {
+		font-size: 2rem;
+	}
+
+	h4 {
+		font-size: 0.3rem;
+	}
+
+	p {
+		font-size: 1rem;
+	}
+}
