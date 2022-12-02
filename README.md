@@ -1,4 +1,4 @@
-Project Exam 2
+# Project Exam 2
 
 A media company wants a new front end for their social media application. 
 
