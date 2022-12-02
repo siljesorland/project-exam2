@@ -33,7 +33,8 @@ A registered user may react to any Post with an emoji
 A registered user may follow and unfollow another Profile
 
 
-Built with:
+# Built with:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # How to use:
