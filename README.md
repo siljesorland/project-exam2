@@ -1,5 +1,6 @@
 # Project Exam 2
-![image](https://user-images.githubusercontent.com/72661374/224486454-461deb0d-551a-4216-b42d-d4f4e0eca3f8.png)
+![image](https://user-images.githubusercontent.com/72661374/224486544-805e28d8-09bb-496d-a175-4cf7033f562a.png)
+
 
 
 A media company wants a new front end for their social media application. 
