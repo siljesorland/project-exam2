@@ -41,7 +41,7 @@ A registered user may follow and unfollow another Profile
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # How to use:
-To clone and run this application, you'll need VS Code and Node.js (which comes with npm) installed on your computer. From your command line:
+To clone and run this application, you'll need VS Code and Node.js (which comes with npm) installed on your computer.
 
 # Clone this repository
 $ git clone https://github.com/siljesorland/project-exam2
